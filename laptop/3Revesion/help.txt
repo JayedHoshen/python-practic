@@ -1,0 +1,10 @@
+You Must be visited This link......
+
+1) programabad.com (for any question, answer here......)
+2) codingbat.com/python (first learns, so it's perfetch you)
+
+Some books here. You must learn,if you have a great programmers...
+i) automatetheboringstuff.com (kisu mojar program ase akane)
+ii) diveintopython.net/index.html (for advance prommers, but basics learns nothing problem)
+iii) interactivepython.org/runestone/static/thinkcspy/index.html (learn basics very good books)
+iv) docs.python.org/3/tutorial (python office tutorial)
